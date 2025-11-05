@@ -7,7 +7,7 @@ In addition to coding, I love playing games, such as shooters, souls-likes and a
 
 ---
 <p align="center">
-	<img width="49%" src="https://github-widgetbox-shadow.vercel.app/api/skills?languages=python,luau,c#&includeNames=true&theme=aether">
-	<img width="49%" src="https://github-widgetbox-shadow.vercel.app/api/skills?tools=vscode,git,windows,linux&includeNames=true&theme=aether">
+	<img width="49%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,luau,css&includeNames=true&theme=aether">
+	<img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=vscode,git,windows,linux&includeNames=true&theme=aether">
 	<img src="https://github-widgetbox.vercel.app/api/profile?username=insaves&data=followers,repositories,stars,commits&theme=aether">
 </p>
